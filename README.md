@@ -12,5 +12,5 @@ Machine Learning in Finance in Tensorflow for beginers
 * [07 - Peer-to-peer lending](https://github.com/yizhanyang/Machine-Learning-in-Financial-Data/blob/master/07%20-%20Peer-to-peer%20lending.ipynb)
 * [08 - RNNs, predicting bitcoin prices](https://github.com/yizhanyang/Machine-Learning-in-Financial-Data/blob/master/08_RNNs%2C_predicting_bitcoin_prices_colab.ipynb)
 
-# The Data
+# Additional Information
 For any questions, email yizhan@kth.se
