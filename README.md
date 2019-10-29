@@ -11,3 +11,5 @@ Introduction of Machine Learning in Finance in Tensorflow for beginers
 * 06 - Multiclass classification with a NN in keras
 * 07 - Peer-to-peer lending
 * 08 - RNNs, predicting bitcoin prices
+
+# The data
